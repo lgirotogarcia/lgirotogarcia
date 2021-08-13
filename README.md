@@ -1,4 +1,6 @@
-### Hi there 👋
+### Ooi!
+
+Me chamo Leonardo, tenho 23 anos. Sou formado em Administração (12/2020). No final de Maio decidi mudar de carreira, e desde então estou estudando JavaScript com foco no Back-End.
 
 <!--
 **lgirotogarcia/lgirotogarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

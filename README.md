@@ -8,7 +8,7 @@ Me chamo Leonardo, tenho 23 anos. Sou formado em Administração. No final de Ma
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgirotogarcia&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div>
-  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Leo-Js" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 </div>
   <!-- <div style="display: inline_block"><br>
   

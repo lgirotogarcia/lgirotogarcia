@@ -2,6 +2,12 @@
 
 Me chamo Leonardo, tenho 23 anos. Sou formado em Administração. No final de Maio decidi mudar de carreira para a área da Programação, e desde então estou estudando JavaScript com foco no Back-End.
 
+<div>
+  <a href="https://github.com/lgirotogarcia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lgirotogarcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgirotogarcia&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <!--
 **lgirotogarcia/lgirotogarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

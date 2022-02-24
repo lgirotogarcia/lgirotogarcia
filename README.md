@@ -11,7 +11,7 @@ My name is Leonardo, I'm 23yo. I have a degree in Business Administration. At th
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=lgirotogarcia&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgirotogarcia&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
-<div style="display: inline_block"><br>>
+<div style="display: inline_block">
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Leo-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">

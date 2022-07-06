@@ -1,23 +1,19 @@
-### Ooi!
-
-Me chamo Leonardo, tenho 23 anos. Sou formado em Administração. No final de Maio decidi mudar de carreira para a área da Programação, e desde então estou estudando JavaScript com foco no Back-End.
+<div>
+  <a href="https://app.daily.dev/lgirotogarcia"><img src="https://github.com/lgirotogarcia/lgirotogarcia/blob/main/devcard.svg" align="left" width="400" alt="Leonardo's Dev Card">
+  </a>
+</div>
 
 ### Hey there!
 
-My name is Leonardo, I'm 23yo. I have a degree in Business Administration. At the end of May, I decided to change my carreer to Software Development, since them, I'm studying JavaScript focused on Back-End.
+  You can call me Leo, I'm 23yo. I have a degree in Business Administration. At the end of May 2021, I decided to change my carreer to Software Development, and since then, I studied JavaScript focused on back-end. Today I'm in [DIO._](https://web.dio.me) and [Santander's](https://www.santander.com.br) Java and Angular bootcamp. I'm passionate about it, and I want to learn more and more!
 
-
-
-
-  <!--<a href="https://app.daily.dev/lgirotogarcia"><img src="https://github.com/lgirotogarcia/lgirotogarcia/blob/main/devcard.svg" width="350" alt="Leonardo's Dev Card"> </a>-->
   <div>
   <a href="https://github.com/lgirotogarcia">
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=lgirotogarcia&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgirotogarcia&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="154em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgirotogarcia&layout=compact&langs_count=7&theme=cobalt"/>
   </div>
   
 <div style="display: inline_block">
-
   <!--
   <img align="center" alt="Leo-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Leo-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
@@ -28,6 +24,9 @@ My name is Leonardo, I'm 23yo. I have a degree in Business Administration. At th
   <img align="center" alt="Leo-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Leo-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
 </div>
+
+
+
 <!--
 **lgirotogarcia/lgirotogarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

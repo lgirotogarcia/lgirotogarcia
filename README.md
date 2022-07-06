@@ -1,18 +1,21 @@
 ### Ooi!
 
-<a href="https://app.daily.dev/lgirotogarcia"><img src="https://github.com/lgirotogarcia/lgirotogarcia/blob/main/devcard.svg" width="200" alt="Leonardo's Dev Card"> </a>
-
 Me chamo Leonardo, tenho 23 anos. Sou formado em Administração. No final de Maio decidi mudar de carreira para a área da Programação, e desde então estou estudando JavaScript com foco no Back-End.
 
 ### Hey there!
 
 My name is Leonardo, I'm 23yo. I have a degree in Business Administration. At the end of May, I decided to change my carreer to Software Development, since them, I'm studying JavaScript focused on Back-End.
 
-<div>
+
+
+
+  <!--<a href="https://app.daily.dev/lgirotogarcia"><img src="https://github.com/lgirotogarcia/lgirotogarcia/blob/main/devcard.svg" width="350" alt="Leonardo's Dev Card"> </a>-->
+  <div>
   <a href="https://github.com/lgirotogarcia">
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=lgirotogarcia&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgirotogarcia&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+  </div>
+  
 <div style="display: inline_block">
 
   <!--

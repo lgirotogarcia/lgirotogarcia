@@ -1,5 +1,7 @@
 ### Ooi!
 
+<a href="https://app.daily.dev/lgirotogarcia"><img src="https://github.com/lgirotogarcia/lgirotogarcia/blob/main/devcard.svg" width="200" alt="Leonardo's Dev Card"> </a>
+
 Me chamo Leonardo, tenho 23 anos. Sou formado em Administração. No final de Maio decidi mudar de carreira para a área da Programação, e desde então estou estudando JavaScript com foco no Back-End.
 
 ### Hey there!

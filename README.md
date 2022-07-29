@@ -1,5 +1,5 @@
 <div>
-  <a href="https://app.daily.dev/lgirotogarcia"><img src="https://github.com/lgirotogarcia/lgirotogarcia/blob/main/devcard.svg" align="left" width="400" alt="Leonardo's Dev Card">
+  <a href="https://app.daily.dev/lgirotogarcia"><img src="https://github.com/lgirotogarcia/lgirotogarcia/blob/main/devcard.svg" align="left" width="55%" alt="Leonardo's Dev Card">
   </a>
 </div>
 

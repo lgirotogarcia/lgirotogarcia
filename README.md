@@ -6,7 +6,7 @@
 ### Hey there!
 
 
-  You can call me Leo, I'm 23yo. I have a degree in Business Administration. At the end of May 2021, I decided to change my carreer to Software Development, and since then, I studied JavaScript focused on back-end. Today I'm in [DIO._](https://web.dio.me) and [Santander's](https://www.santander.com.br) Java and Angular bootcamp. I'm passionate about it, and I want to learn more and more!
+  You can call me Leo, I'm 23yo. I have a degree in Business Administration. At the end of May 2021, I decided to change my carreer to Software Development, and since then, I studied JavaScript focused on back-end. I'm passionate about it, and I want to learn more and more!
 
   <div>
   <a href="https://github.com/lgirotogarcia">

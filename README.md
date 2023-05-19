@@ -33,8 +33,8 @@
   
 
 #### Reach me out:  
-  [<img align="center" alt="Leo-LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">](https://linkedin.com.br/in/lgirotogarcia)
-  [<img align="center" alt="Leo-Gmail" height="30" src="https://i.ibb.co/L97ht77/5968534.png">](mailto:leonardogirotogarcia@gmail.com)
+ <!-- [<img align="center" alt="Leo-LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">](https://linkedin.com.br/in/lgirotogarcia)
+  [<img align="center" alt="Leo-Gmail" height="30" src="https://i.ibb.co/L97ht77/5968534.png">](mailto:leonardogirotogarcia@gmail.com) -->
 
   
   
